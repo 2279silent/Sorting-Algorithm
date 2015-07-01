@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1434528715 source:d:\程式\sort\main.cpp
+	<iostream>
+
+1434846222 source:d:\程式\sort\buble\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
