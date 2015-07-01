@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1435729458 source:d:\µ{¦¡\sort\merge\main.cpp
+	<iostream>
+	<iterator>
+	<algorithm>
+	<cstdlib>
+	<ctime>
+	<vector>
+
