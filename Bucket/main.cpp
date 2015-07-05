@@ -39,9 +39,10 @@ vector<int> BucketSort(vector<int> UnSortedData)
             T=*i;
     }
     Bucket.assign(T+1,Zero);//動態配置空間
-    for(auto i:UnSortedData)
+
+    for(auto i:UnSortedData)//把要排序的數字放到對應的籃子裡  e.g.:數字20會被放到Bucket[20]
         Bucket[i].push_back(i);
-    for(auto Sorted:Bucket)
+    for(auto Sorted:Bucket)//由小到大從籃子裡把數字拿出來
         SortedData.insert(SortedData.end(),Sorted.begin(),Sorted.end());
 
     return SortedData;

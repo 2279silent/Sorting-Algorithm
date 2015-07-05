@@ -1,3 +1,10 @@
 # Sorting-Algorithm
 Basic sorting algorithm
-Couting and buscket don't work yet
+
+Buble
+Quick
+Merge
+Insertion
+Bucket
+Counting
+Radix
