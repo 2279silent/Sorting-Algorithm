@@ -9,13 +9,12 @@ int main()
 {
     srand(time(0));
     string Data;
-    cout<<Data<<endl;
     for(int i=0;i<5;i++)
         Data += 'a' + (rand()%25);
     cout<<"未排序: "<<Data<<endl;
     InsertSort(Data);
     cout<<"排序: "<<Data<<endl;
-
+    system("PAUSE");
     return 0;
 }
 
@@ -35,7 +34,6 @@ void InsertSort(string& Data)
                 }
         }
         *(Sort+1) = T;
-        cout<<Data<<endl;
     }
 }
 

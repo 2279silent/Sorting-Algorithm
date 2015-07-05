@@ -36,7 +36,7 @@ int main()
     cout<<endl<<"Radixsort";
     for(int i=0;i<Data.size();i++)
         cout<<endl<<right<<Data[i];
-
+    system("Pause");
     return 0;
 }
 

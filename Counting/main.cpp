@@ -22,7 +22,7 @@ int main()
     Data=CountingSort(Data);
     cout<<"CountingSort: ";
     copy(Data.begin(),Data.end(),output);//輸出vector
-
+    system("PAUSE");
     return 0;
 }
 

@@ -16,6 +16,7 @@ int main()
     cout<<"未排序： "<<Data<<endl;
     QuickSort(Data,0,(Data.size()-1));
     cout<<"排序: "<<Data<<endl;
+    system("PAUSE");
     return 0;
 }
 
