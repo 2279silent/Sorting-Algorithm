@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1436259063 source:d:\µ{¦¡\sorting-algorithm\sort\main.cpp
+	<iostream>
+	<iterator>
+	<algorithm>
+	"Sort-Algorithm.h"
+	<time.h>
+
+1436255994 d:\µ{¦¡\sorting-algorithm\header\sort.h
+	<string>
+	<vector>
+
+1436259162 source:d:\µ{¦¡\sorting-algorithm\sort\sort-algorithm.cpp
+	<iterator>
+	<vector>
+	<string>
+	"Sort-Algorithm.h"
+
+1436258360 d:\µ{¦¡\sorting-algorithm\sort\sort-algorithm.h
+	<string>
+	<vector>
+
+1436259162 source:d:\µ{¦¡\sorting-algorithm\sort_summary\sort-algorithm.cpp
+	<iterator>
+	<vector>
+	<string>
+	"Sort-Algorithm.h"
+
+1436258360 d:\µ{¦¡\sorting-algorithm\sort_summary\sort-algorithm.h
+	<string>
+	<vector>
+
